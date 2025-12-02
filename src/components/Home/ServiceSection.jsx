@@ -6,21 +6,27 @@ import "aos/dist/aos.css";
 
 const services = [
   {
-    title: "Alloy Wheel Repair",
-    desc: `Remove scuffs, scratches, and damage for wheels that look brand new.`,
+    title: "MOT",
+    desc: `
+Fast, hassle-free MOT testing to keep you road-legal and safe.
+`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
   {
-    title: "Dent Removal",
-    desc: `Seamless dent repair to restore panels back to factory condition.
+    title: "Service",
+    desc: `
+Full car servicing to keep your vehicle running smoothly and efficiently.
+
 ​`,
     image: "/gray.avif",
     path: "/services/service",
   },
   {
-    title: "Bumper Repair",
-    desc: `Repair cracked or scuffed bumpers to a smooth, like-new finish.`,
+    title: "Diagnostics",
+    desc: `
+
+Quick, accurate checks to detect issues early and keep your vehicle running at its best.`,
     image: "/carmechanic.avif",
     path: "/services/mot",
   },
